@@ -1,0 +1,10 @@
+D:\прожики\WCFparser\WCFparser\bin\WCFparser.dll.config
+D:\прожики\WCFparser\WCFparser\bin\WCFparser.dll
+D:\прожики\WCFparser\WCFparser\bin\WCFparser.pdb
+D:\прожики\WCFparser\WCFparser\bin\HtmlAgilityPack.dll
+D:\прожики\WCFparser\WCFparser\bin\LiteDB.dll
+D:\прожики\WCFparser\WCFparser\bin\HtmlAgilityPack.pdb
+D:\прожики\WCFparser\WCFparser\bin\HtmlAgilityPack.xml
+D:\прожики\WCFparser\WCFparser\obj\Release\WCFparser.csprojResolveAssemblyReference.cache
+D:\прожики\WCFparser\WCFparser\obj\Release\WCFparser.dll
+D:\прожики\WCFparser\WCFparser\obj\Release\WCFparser.pdb
